@@ -26,10 +26,3 @@ Before starting, ensure that the following are installed:
 - **Python 3.x**
 - **Chrome Browser**
 
-### Backend Setup
-
-1. Clone the repository or download the project files.
-   
-2. Navigate to the **backend** directory:
-   ```bash
-   cd phishing-detection-extension/backend
