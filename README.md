@@ -13,8 +13,7 @@ A Chrome extension designed to detect phishing websites using a machine learning
 
 - **Frontend:** Chrome Extension (HTML, CSS, JavaScript)
 - **Backend:** Node.js
-- **Machine Learning:** Python, Scikit-Learn, MLP (Multilayer Perceptron) algorithm
-- **Data Communication:** HTTP Requests between Node.js and Python
+- **Machine Learning:** Python, MLP (Multilayer Perceptron) algorithm
 
 ## Installation
 
